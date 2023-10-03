@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ShopRUs-Discount-API-Minimal.props" />
+</Project>
