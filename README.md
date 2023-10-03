@@ -1,4 +1,5 @@
 Bu projenin amacı endpoint e gönderilen faturaya aşağı belirtilen şartlarda indirim uygulamaktır.
+Code-First mantığı ile MinimalAPI, EntityFrameWorkCore kullanılarak geliştirildi. 
 İndirim şartları CustomerType endpoint ine girilerek oluşturulur. Case istenen şartlar:
 -Kullanıcı mağazanın çalışanı ise %30 indirim alır.
 -Kullanıcı mağazanın satış ortağı ise %10 indirim alır.
